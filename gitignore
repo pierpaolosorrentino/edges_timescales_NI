@@ -1,0 +1,14 @@
+*.nc
+*.gif
+*.dat
+*.swo
+*.swp
+*.h5
+*.out
+*.mat
+*.npy
+*.png
+.DS_Store
+*.pdf
+__pycache__/
+.ipynb_checkpoints
